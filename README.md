@@ -1,11 +1,4 @@
-## Hi there 👋
-I’m Abdelrahman Sayed, a Front-End Web Developer with experience in building responsive, user-friendly, and modern web applications.
-
-- 🎓 Currently studying Computer Science at Cairo University
-- 💼 Worked as a Software Engineer Intern at Procore Technologies, focusing on front-end development
-- 💻 Skilled in React.js, JavaScript, and Tailwind CSS
-- 🔭 I’m currently working on building modern front-end projects including dashboards, eCommerce platforms, and interactive web apps.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdelrahman-sayed-9312142a4/) | [Email](abdelrahmansayed5002@gmail.com)  
+Computer Science student at Cairo University and passionate Front-End Developer skilled in building responsive, user-friendly web applications using HTML, CSS, JavaScript, and React. Experienced in modern UI/UX design, API integration, and performance optimization to enhance user experience. Enthusiastic about learning new technologies and collaborating within dynamic development teams.
  
 
 
